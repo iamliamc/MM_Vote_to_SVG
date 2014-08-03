@@ -1,0 +1,475 @@
+Comparing files work.svg and LIST_OF_MICHIGAN_COUNTIES.SVG
+***** work.svg
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg height="1200" id="svg2" inkscape:version="0.44.1" sodipodi:docbase="C:\Documents and Settings\default\Desktop" sodipodi:do
+cname="list_of_michigan_counties.svg" sodipodi:version="0.32" version="1.0" width="1050" xmlns="http://www.w3.org/2000/svg" xml
+ns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespa
+ces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodip
+odi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+ <metadata id="metadata276">
+  <rdf:rdf>
+   <cc:work rdf:about="">
+    <dc:format>
+     image/svg+xml
+    </dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage">
+    </dc:type>
+   </cc:work>
+  </rdf:rdf>
+ </metadata>
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" gridtolerance="10.0" guidetolerance="10.0" id="base" inkscape:cu
+rrent-layer="svg2" inkscape:cx="525" inkscape:cy="374.92622" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window
+-height="968" inkscape:window-width="1280" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:zoom="0.88859752" objecttoler
+ance="10.0" pagecolor="#ffffff">
+ </sodipodi:namedview>
+ <defs id="defs4">
+ </defs>
+ <g id="layer1" transform="translate(-21.72336,-160.9076)">
+  <g id="g15126" transform="matrix(1.5,0,0,1.5,-12.59446,-79.27349)">
+   <path d="M 655.97666,807.02262 L 659.36952,860.2369 L 678.29809,859.16547 C 678.29809,859.16547 675.61952,853.9869 678.65523
+,848.80833 C 681.69095,843.62976 685.61952,844.70119 685.61952,844.70119 L 685.44095,841.12976 L 684.90523,840.2369 L 683.29809
+***** LIST_OF_MICHIGAN_COUNTIES.SVG
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1050"
+   height="1200"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docname="list_of_michigan_counties.svg"
+   sodipodi:docbase="C:\Documents and Settings\default\Desktop">
+  <metadata
+     id="metadata276">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="968"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.88859752"
+     inkscape:cx="525"
+     inkscape:cy="374.92622"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <g
+     transform="translate(-21.72336,-160.9076)"
+     id="layer1">
+    <g
+       transform="matrix(1.5,0,0,1.5,-12.59446,-79.27349)"
+       id="g15126">
+      <path
+         d="M 655.97666,807.02262 L 659.36952,860.2369 L 678.29809,859.16547 C 678.29809,859.16547 675.61952,853.9869 678.65523
+,848.80833 C 681.69095,843.62976 685.61952,844.70119 685.61952,844.70119 L 685.44095,841.12976 L 684.90523,840.2369 L 683.29809
+*****
+
+***** work.svg
+,838.9869 L 682.5838,836.30833 L 684.90523,834.16547 L 686.3338,834.16547 L 691.86952,830.05833 L 689.90523,827.55833 L 687.940
+95,804.87976 L 655.97666,807.02262 z " id="50 MACOMB" style="fill:#7f743f;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;strok
+e-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 603.65523,811.12976 L 655.97666,807.20119 L 659.54809,860.41547 L 607.22666,863.9869 L 603.65523,811.12976 z " id
+="63 OAKLAND" style="fill:#7f693c;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-l
+inejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 664.01237,774.70119 L 666.51238,805.59405 L 688.47666,804.70119 L 690.0838,827.7369 L 692.04809,830.41547 L 694.7
+2666,830.05833 L 698.8338,832.20119 L 698.47666,835.59405 L 694.36952,835.95119 L 693.47666,839.16547 L 691.86952,840.95119 L 6
+***** LIST_OF_MICHIGAN_COUNTIES.SVG
+,838.9869 L 682.5838,836.30833 L 684.90523,834.16547 L 686.3338,834.16547 L 691.86952,830.05833 L 689.90523,827.55833 L 687.940
+95,804.87976 L 655.97666,807.02262 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1882" />
+      <path
+         d="M 603.65523,811.12976 L 655.97666,807.20119 L 659.54809,860.41547 L 607.22666,863.9869 L 603.65523,811.12976 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1884" />
+      <path
+         d="M 664.01237,774.70119 L 666.51238,805.59405 L 688.47666,804.70119 L 690.0838,827.7369 L 692.04809,830.41547 L 694.7
+2666,830.05833 L 698.8338,832.20119 L 698.47666,835.59405 L 694.36952,835.95119 L 693.47666,839.16547 L 691.86952,840.95119 L 6
+*****
+
+***** work.svg
+6238,797.37976 717.40523,792.7369 714.36952,787.91547 C 711.3338,783.09404 709.19095,779.34404 708.8338,777.55833 C 708.47666,7
+75.77262 707.40523,771.12976 707.40523,771.12976 L 664.01237,774.70119 z " id="74 ST. CLAIR" style="fill:#7f743f;fill-opacity:1
+;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 650.79809,712.37976 L 695.79809,708.80833 C 695.79809,708.80833 696.3338,721.30833 698.8338,728.27262 C 701.3338,
+735.2369 702.22666,735.05833 702.94095,745.41547 C 703.65523,755.77262 707.04809,770.95119 707.04809,770.95119 L 663.65523,774.
+87976 L 662.58381,758.45119 L 652.22666,758.80833 L 650.79809,712.37976 z " id="76 SANILAC" style="fill:#7f8a45;fill-opacity:1;
+fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 619.36952,706.84404 L 619.36952,713.9869 L 695.0838,709.34404 C 695.0838,709.34404 692.94095,691.30833 690.79809,
+688.45119 C 688.65523,685.59404 685.44095,680.59404 683.8338,676.4869 C 682.22666,672.37976 675.61952,668.9869 671.3338,667.201
+***** LIST_OF_MICHIGAN_COUNTIES.SVG
+6238,797.37976 717.40523,792.7369 714.36952,787.91547 C 711.3338,783.09404 709.19095,779.34404 708.8338,777.55833 C 708.47666,7
+75.77262 707.40523,771.12976 707.40523,771.12976 L 664.01237,774.70119 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1886" />
+      <path
+         d="M 650.79809,712.37976 L 695.79809,708.80833 C 695.79809,708.80833 696.3338,721.30833 698.8338,728.27262 C 701.3338,
+735.2369 702.22666,735.05833 702.94095,745.41547 C 703.65523,755.77262 707.04809,770.95119 707.04809,770.95119 L 663.65523,774.
+87976 L 662.58381,758.45119 L 652.22666,758.80833 L 650.79809,712.37976 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1888" />
+      <path
+         d="M 619.36952,706.84404 L 619.36952,713.9869 L 695.0838,709.34404 C 695.0838,709.34404 692.94095,691.30833 690.79809,
+688.45119 C 688.65523,685.59404 685.44095,680.59404 683.8338,676.4869 C 682.22666,672.37976 675.61952,668.9869 671.3338,667.201
+*****
+
+***** work.svg
+69 C 624.36952,693.9869 624.90523,697.37976 624.90523,697.37976 L 622.5838,699.52262 L 621.69095,703.62976 L 619.36952,706.8440
+4 z " id="32 HURON" style="fill:#7fa04b;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;st
+roke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 600.44095,723.80833 L 601.86952,768.9869 L 622.5838,768.09404 L 622.5838,766.66547 L 631.86952,766.30833 L 631.86
+952,755.2369 L 652.22666,753.9869 L 650.97666,712.20119 L 619.36952,713.62976 L 618.65523,708.27262 L 617.04809,708.9869 L 612.
+***** LIST_OF_MICHIGAN_COUNTIES.SVG
+69 C 624.36952,693.9869 624.90523,697.37976 624.90523,697.37976 L 622.5838,699.52262 L 621.69095,703.62976 L 619.36952,706.8440
+4 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1890" />
+      <path
+         d="M 600.44095,723.80833 L 601.86952,768.9869 L 622.5838,768.09404 L 622.5838,766.66547 L 631.86952,766.30833 L 631.86
+952,755.2369 L 652.22666,753.9869 L 650.97666,712.20119 L 619.36952,713.62976 L 618.65523,708.27262 L 617.04809,708.9869 L 612.
+*****
+
+***** work.svg
+94095,709.16547 L 612.76238,712.02262 L 608.47666,717.20119 L 605.26238,722.02262 C 605.26238,722.02262 603.11952,723.9869 600.
+44095,723.80833 z " id="79 TUSCOLA" style="fill:#7fa04b;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke
+-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 622.5838,766.66547 L 624.72666,808.9869 L 666.3338,805.77262 L 662.58381,758.45118 L 652.22666,758.62976 L 652.04
+809,754.34404 L 631.51238,755.41547 L 631.86952,766.30833 L 622.5838,766.66547 z " id="44 LAPEER" style="fill:#7f7f42;fill-opac
+ity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 582.94094,822.20119 L 604.36952,822.02262 L 603.65524,810.95119 L 624.72667,809.34405 L 622.5838,768.09404 L 581.
+3338,769.70119 L 582.94094,822.20119 z " id="25 GENESEE" style="fill:#7f743f;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;st
+roke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 580.44095,686.4869 L 579.90523,701.84404 C 579.90523,701.84404 574.54809,708.80833 581.51238,714.34404 C 588.4766
+6,719.87976 589.19095,718.27262 589.19095,718.27262 L 593.11952,719.87976 L 597.5838,721.66547 L 600.61952,723.62976 L 600.7980
+***** LIST_OF_MICHIGAN_COUNTIES.SVG
+94095,709.16547 L 612.76238,712.02262 L 608.47666,717.20119 L 605.26238,722.02262 C 605.26238,722.02262 603.11952,723.9869 600.
+44095,723.80833 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1892" />
+      <path
+         d="M 622.5838,766.66547 L 624.72666,808.9869 L 666.3338,805.77262 L 662.58381,758.45118 L 652.22666,758.62976 L 652.04
+809,754.34404 L 631.51238,755.41547 L 631.86952,766.30833 L 622.5838,766.66547 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1894" />
+      <path
+         d="M 582.94094,822.20119 L 604.36952,822.02262 L 603.65524,810.95119 L 624.72667,809.34405 L 622.5838,768.09404 L 581.
+3338,769.70119 L 582.94094,822.20119 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1896" />
+      <path
+         d="M 580.44095,686.4869 L 579.90523,701.84404 C 579.90523,701.84404 574.54809,708.80833 581.51238,714.34404 C 588.4766
+6,719.87976 589.19095,718.27262 589.19095,718.27262 L 593.11952,719.87976 L 597.5838,721.66547 L 600.61952,723.62976 L 600.7980
+*****
+
+***** work.svg
+9,738.45119 L 589.90523,738.09404 L 589.72666,733.09404 L 569.72666,733.27262 L 569.72666,728.09404 L 559.01238,727.91547 L 558
+.20881,676.04047 L 569.01238,675.95119 L 569.19095,686.84404 L 580.44095,686.4869 z " id="09 BAY" style="fill:#7f7f42;fill-opac
+ity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 557.94095,656.4869 L 609.90523,655.2369 L 609.36952,662.37976 L 607.76238,665.59404 L 607.76238,667.91547 C 607.7
+6238,667.91547 599.90523,669.34404 599.54809,671.84404 C 599.19095,674.34404 599.19095,676.30833 599.19095,676.30833 L 594.3695
+***** LIST_OF_MICHIGAN_COUNTIES.SVG
+9,738.45119 L 589.90523,738.09404 L 589.72666,733.09404 L 569.72666,733.27262 L 569.72666,728.09404 L 559.01238,727.91547 L 558
+.20881,676.04047 L 569.01238,675.95119 L 569.19095,686.84404 L 580.44095,686.4869 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1898" />
+      <path
+         d="M 557.94095,656.4869 L 609.90523,655.2369 L 609.36952,662.37976 L 607.76238,665.59404 L 607.76238,667.91547 C 607.7
+6238,667.91547 599.90523,669.34404 599.54809,671.84404 C 599.19095,674.34404 599.19095,676.30833 599.19095,676.30833 L 594.3695
+*****
+
+***** work.svg
+2,676.30833 L 587.04809,676.84404 L 583.47666,680.41547 L 582.94095,684.87976 L 580.26238,686.4869 L 569.01238,686.30833 L 568.
+8338,676.12976 L 558.2088,675.77262 L 557.94095,656.4869 z " id="06 ARENAC" style="fill:#7f8a45;fill-opacity:1;fill-rule:evenod
+d;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 580.79809,614.16547 L 582.04809,655.41547 L 609.90523,654.70119 C 609.90523,654.70119 610.44095,645.41547 612.048
+09,643.80833 C 613.65523,642.20119 615.44095,640.77262 615.44095,640.77262 L 619.36952,641.12976 L 620.26238,642.37976 L 620.97
+***** LIST_OF_MICHIGAN_COUNTIES.SVG
+2,676.30833 L 587.04809,676.84404 L 583.47666,680.41547 L 582.94095,684.87976 L 580.26238,686.4869 L 569.01238,686.30833 L 568.
+8338,676.12976 L 558.2088,675.77262 L 557.94095,656.4869 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1900" />
+      <path
+         d="M 580.79809,614.16547 L 582.04809,655.41547 L 609.90523,654.70119 C 609.90523,654.70119 610.44095,645.41547 612.048
+09,643.80833 C 613.65523,642.20119 615.44095,640.77262 615.44095,640.77262 L 619.36952,641.12976 L 620.26238,642.37976 L 620.97
+*****
+
+***** work.svg
+666,642.37976 C 620.97666,642.37976 621.51238,638.45119 623.47666,636.66547 C 625.44095,634.87976 628.65523,633.9869 628.65523,
+633.9869 L 628.65523,627.37976 L 629.90523,624.16547 L 629.01238,621.4869 L 629.72666,612.7369 L 580.79809,614.16547 z " id="35
+ IOSCO" style="fill:#7f8a45;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejoi
+n:miter;stroke-opacity:1">
+   </path>
+   <path d="M 579.01237,571.30833 L 627.58381,569.52262 L 628.65523,572.20119 L 630.0838,573.80833 L 630.44095,583.80833 L 631.
+69095,586.12976 L 633.29809,587.7369 L 632.40523,589.52262 L 631.86952,594.34404 L 630.0838,597.55833 L 629.54809,612.55833 L 5
+80.44095,613.80833 L 579.01237,571.30833 z " id="01 ALCONA" style="fill:#7f7f42;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0
+;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 577.40523,529.87976 L 620.44095,528.27262 L 622.94095,533.09404 L 626.69095,536.12976 L 627.40523,539.16547 L 629
+.36952,542.37976 L 629.54809,545.77262 L 632.40523,550.77262 L 628.65523,549.52262 L 624.19095,547.55833 L 621.3338,545.59404 L
+***** LIST_OF_MICHIGAN_COUNTIES.SVG
+666,642.37976 C 620.97666,642.37976 621.51238,638.45119 623.47666,636.66547 C 625.44095,634.87976 628.65523,633.9869 628.65523,
+633.9869 L 628.65523,627.37976 L 629.90523,624.16547 L 629.01238,621.4869 L 629.72666,612.7369 L 580.79809,614.16547 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1902" />
+      <path
+         d="M 579.01237,571.30833 L 627.58381,569.52262 L 628.65523,572.20119 L 630.0838,573.80833 L 630.44095,583.80833 L 631.
+69095,586.12976 L 633.29809,587.7369 L 632.40523,589.52262 L 631.86952,594.34404 L 630.0838,597.55833 L 629.54809,612.55833 L 5
+80.44095,613.80833 L 579.01237,571.30833 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1904" />
+      <path
+         d="M 577.40523,529.87976 L 620.44095,528.27262 L 622.94095,533.09404 L 626.69095,536.12976 L 627.40523,539.16547 L 629
+.36952,542.37976 L 629.54809,545.77262 L 632.40523,550.77262 L 628.65523,549.52262 L 624.19095,547.55833 L 621.3338,545.59404 L
+*****
+
+Resync Failed.  Files are too different.
+***** work.svg
+ 618.65523,545.59404 L 615.97666,548.45119 C 615.97666,548.45119 613.47666,559.16547 619.54809,563.09404 C 625.61952,567.02262 
+627.76238,567.55833 627.76238,567.55833 L 627.76238,569.70119 L 579.01238,571.48691 L 577.40523,529.87976 z " id="04 ALPENA" st
+yle="fill:#7f7f42;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;st
+roke-opacity:1">
+   </path>
+   <path d="M 536.69095,531.66547 L 577.40523,529.87975 L 579.19095,571.66547 L 537.76238,572.7369 L 536.69095,531.66547 z " id
+="60 MONTMORENCY" style="fill:#7f8a45;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stro
+ke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 537.76238,572.91547 L 538.65523,614.87976 L 580.44095,613.9869 L 579.01238,571.4869 L 537.76238,572.91547 z " id=
+"68 OSCODA" style="fill:#7f8a45;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-lin
+ejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 496.86952,573.45118 L 496.86952,615.95119 L 538.47666,615.2369 L 537.76238,572.91547 L 496.86952,573.45118 z " id
+="20 CRAWFORD" style="fill:#7f7f42;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-
+linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 496.51237,542.7369 L 497.04809,573.62976 L 537.76238,572.55833 L 536.69095,531.4869 L 505.79809,532.20118 L 505.6
+1952,542.7369 L 496.51237,542.7369 z " id="69 OTSEGO" style="fill:#7f7f42;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;strok
+e-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 496.86952,616.12976 L 497.76237,658.09404 L 539.90523,656.84404 L 538.8338,614.87976 L 496.86952,616.12976 z " id
+="72 ROSCOMMON" style="fill:#7f7f42;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke
+-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 455.61952,616.12976 L 496.86952,616.12976 L 497.5838,658.09404 L 455.79809,657.91547 L 455.61952,616.12976 z " id
+="57 MISSAUKEE" style="fill:#7fa04b;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke
+-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 520.0838,698.9869 L 540.79809,699.16547 L 540.79809,696.84404 L 558.47666,697.20119 L 557.94095,656.84404 L 519.0
+1238,657.20119 L 520.0838,698.9869 z " id="26 GLADWIN" style="fill:#7f7f42;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stro
+ke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 521.15523,741.66547 L 541.86952,741.4869 L 541.86952,738.80833 L 559.19095,738.80833 L 558.29809,697.37976 L 540.
+97666,697.37976 L 540.79809,699.34405 L 520.0838,699.34404 L 521.15523,741.66547 z " id="56 MIDLAND" style="fill:#7fa04b;fill-o
+pacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 477.94095,699.87976 L 520.0838,699.70119 L 519.19095,657.7369 L 477.5838,658.09404 L 477.94095,699.87976 z " id="
+18 CLARE" style="fill:#7f7f42;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linej
+oin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 436.51237,700.59404 L 477.94095,700.2369 L 477.76237,658.45119 L 435.79809,658.27262 L 436.51237,700.59404 z " id
+="67 OSCEOLA" style="fill:#7fa04b;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-l
+inejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 394.54809,658.45119 L 435.79809,658.27262 L 436.3338,700.77262 L 394.54809,701.12976 L 394.54809,658.45119 z " id
+="43 LAKE" style="fill:#7f743f;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-line
+join:miter;stroke-opacity:1">
+   </path>
+   <path d="M 394.54809,763.45118 L 436.86952,763.27261 L 436.51237,700.59404 L 394.72666,700.77262 L 394.54809,763.45118 z " i
+d="62 NEWAYGO" style="fill:#7f7f42;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-
+linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 478.8338,742.02262 L 478.11952,700.2369 L 436.86952,700.59404 L 437.04809,742.37976 L 478.8338,742.02262 z " id="
+54 MECOSTA" style="fill:#7f7f42;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-lin
+ejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 478.29809,700.41547 L 520.0838,699.52262 L 520.97666,741.84404 L 478.47666,741.84404 L 478.29809,700.41547 z " id
+="37 ISABELLA" style="fill:#7f693c;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-
+linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 459.19095,763.27262 L 459.36952,784.52262 L 501.69095,784.16547 L 500.0838,742.20119 L 436.86952,742.37976 L 436.
+86952,763.45118 L 459.19095,763.27262 z " id="59 MONTCALM" style="fill:#7f7f42;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;
+stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 417.76237,827.02262 L 459.90523,826.84405 L 459.19095,763.27261 L 416.51238,763.80833 L 417.76237,827.02262 z " i
+d="41 KENT" style="fill:#7f7f42;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-lin
+ejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 406.86952,774.16547 L 416.86952,774.16547 L 416.51237,763.80833 L 394.54809,763.62976 L 394.54809,742.55833 L 357
+.40523,741.84404 L 365.26237,765.2369 C 365.26237,765.2369 374.19095,783.45119 374.54809,784.87976 C 374.90523,786.30833 406.86
+952,785.41547 406.86952,785.41547 L 406.86952,774.16547 z " id="61 MUSKEGON" style="fill:#7f693c;fill-opacity:1;fill-rule:eveno
+dd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 374.72666,785.41547 L 407.04809,785.77262 L 406.69095,773.80833 L 416.86952,774.16547 L 417.94095,826.66547 L 379
+.36952,826.84405 C 379.36952,826.84405 380.44095,796.30833 374.72666,785.41547 z " id="70 OTTAWA" style="fill:#7fa04b;fill-opac
+ity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 501.86952,825.77262 L 501.86952,783.62976 L 459.54809,784.16547 L 460.0838,826.30833 L 501.86952,825.77262 z " id
+="34 IONIA" style="fill:#7f7f42;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-lin
+ejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 379.54809,827.02262 L 439.01237,827.37976 L 439.36952,868.62976 L 374.36951,868.80833 C 374.36951,868.80833 380.0
+838,856.66547 379.54809,827.02262 z " id="03 ALLEGAN" style="fill:#7f8a45;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;strok
+e-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 374.19095,868.80833 L 420.26237,868.62976 L 420.61951,910.77262 L 378.8338,911.30833 L 378.8338,890.59405 L 365.6
+1952,890.77262 C 365.61952,890.77262 371.15523,885.2369 374.19095,868.80833 z " id="80 VAN BUREN" style="fill:#7f743f;fill-opac
+ity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 365.61952,890.95119 L 379.01237,890.95119 L 378.65523,948.80833 L 324.90523,949.16547 C 324.90523,949.16547 339.7
+2666,941.4869 347.04809,924.34405 C 354.36952,907.20119 348.8338,916.30833 365.61952,890.95119 z " id="11 BERRIEN" style="fill:
+#7f8a45;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opaci
+ty:1">
+   </path>
+   <path d="M 420.79809,911.30833 L 462.94095,910.95119 L 461.86952,868.62976 L 420.26237,868.80833 L 420.79809,911.30833 z " i
+d="39 KALAMAZOO" style="fill:#7f693c;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;strok
+e-linejoin:miter;stroke-opacity:1">
+   </path>
+   <path d="M 418.29809,949.34405 L 418.8338,946.66547 L 420.61952,944.34405 L 420.79809,910.77262 L 379.19095,910.95119 L 378.
+***** LIST_OF_MICHIGAN_COUNTIES.SVG
+ 618.65523,545.59404 L 615.97666,548.45119 C 615.97666,548.45119 613.47666,559.16547 619.54809,563.09404 C 625.61952,567.02262 
+627.76238,567.55833 627.76238,567.55833 L 627.76238,569.70119 L 579.01238,571.48691 L 577.40523,529.87976 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1906" />
+      <path
+         d="M 536.69095,531.66547 L 577.40523,529.87975 L 579.19095,571.66547 L 537.76238,572.7369 L 536.69095,531.66547 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1908" />
+      <path
+         d="M 537.76238,572.91547 L 538.65523,614.87976 L 580.44095,613.9869 L 579.01238,571.4869 L 537.76238,572.91547 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1910" />
+      <path
+         d="M 496.86952,573.45118 L 496.86952,615.95119 L 538.47666,615.2369 L 537.76238,572.91547 L 496.86952,573.45118 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1912" />
+      <path
+         d="M 496.51237,542.7369 L 497.04809,573.62976 L 537.76238,572.55833 L 536.69095,531.4869 L 505.79809,532.20118 L 505.6
+1952,542.7369 L 496.51237,542.7369 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1914" />
+      <path
+         d="M 496.86952,616.12976 L 497.76237,658.09404 L 539.90523,656.84404 L 538.8338,614.87976 L 496.86952,616.12976 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1916" />
+      <path
+         d="M 455.61952,616.12976 L 496.86952,616.12976 L 497.5838,658.09404 L 455.79809,657.91547 L 455.61952,616.12976 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1918" />
+      <path
+         d="M 520.0838,698.9869 L 540.79809,699.16547 L 540.79809,696.84404 L 558.47666,697.20119 L 557.94095,656.84404 L 519.0
+1238,657.20119 L 520.0838,698.9869 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1920" />
+      <path
+         d="M 521.15523,741.66547 L 541.86952,741.4869 L 541.86952,738.80833 L 559.19095,738.80833 L 558.29809,697.37976 L 540.
+97666,697.37976 L 540.79809,699.34405 L 520.0838,699.34404 L 521.15523,741.66547 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1922" />
+      <path
+         d="M 477.94095,699.87976 L 520.0838,699.70119 L 519.19095,657.7369 L 477.5838,658.09404 L 477.94095,699.87976 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1924" />
+      <path
+         d="M 436.51237,700.59404 L 477.94095,700.2369 L 477.76237,658.45119 L 435.79809,658.27262 L 436.51237,700.59404 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1926" />
+      <path
+         d="M 394.54809,658.45119 L 435.79809,658.27262 L 436.3338,700.77262 L 394.54809,701.12976 L 394.54809,658.45119 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1928" />
+      <path
+         d="M 394.54809,763.45118 L 436.86952,763.27261 L 436.51237,700.59404 L 394.72666,700.77262 L 394.54809,763.45118 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1930" />
+      <path
+         d="M 478.8338,742.02262 L 478.11952,700.2369 L 436.86952,700.59404 L 437.04809,742.37976 L 478.8338,742.02262 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1932" />
+      <path
+         d="M 478.29809,700.41547 L 520.0838,699.52262 L 520.97666,741.84404 L 478.47666,741.84404 L 478.29809,700.41547 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1934" />
+      <path
+         d="M 459.19095,763.27262 L 459.36952,784.52262 L 501.69095,784.16547 L 500.0838,742.20119 L 436.86952,742.37976 L 436.
+86952,763.45118 L 459.19095,763.27262 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1936" />
+      <path
+         d="M 417.76237,827.02262 L 459.90523,826.84405 L 459.19095,763.27261 L 416.51238,763.80833 L 417.76237,827.02262 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1938" />
+      <path
+         d="M 406.86952,774.16547 L 416.86952,774.16547 L 416.51237,763.80833 L 394.54809,763.62976 L 394.54809,742.55833 L 357
+.40523,741.84404 L 365.26237,765.2369 C 365.26237,765.2369 374.19095,783.45119 374.54809,784.87976 C 374.90523,786.30833 406.86
+952,785.41547 406.86952,785.41547 L 406.86952,774.16547 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+in:miter;stroke-opacity:1"
+         id="path1940" />
+      <path
+         d="M 374.72666,785.41547 L 407.04809,785.77262 L 406.69095,773.80833 L 416.86952,774.16547 L 417.94095,826.66547 L 379
+.36952,826.84405 C 379.36952,826.84405 380.44095,796.30833 374.72666,785.41547 z "
+         style="fill:#ffffd0;fill-opacity:1;fill-rule:evenodd;stroke:#d0c0a0;stroke-width:1px;stroke-linecap:butt;stroke-linejo
+*****
+
